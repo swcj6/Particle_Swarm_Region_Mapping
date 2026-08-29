@@ -3,7 +3,7 @@
 % Date: March 26, 2025
 % Santa Clara University
 % MECH 293
-% Project One: Particle swarm modeling
+% Project: Particle swarm modeling
 % -------------------------------------------------------------------------
 
 clearvars
