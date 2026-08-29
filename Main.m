@@ -1,5 +1,5 @@
 % -------------------------------------------------------------------------
-% Name: Michael Taylor
+% Name: Steven Wu
 % Date: March 26, 2025
 % Santa Clara University
 % MECH 293
